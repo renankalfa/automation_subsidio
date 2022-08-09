@@ -22,12 +22,10 @@ Então tinhamos que filtrar uma planilha por estado e pegar cada informação, c
 7. Lista todos os contratos de repasse da UF.
 8. Gera um arquivo .docx.
 
-
 ## Próximos Passos
 
 1. Criar uma interface gráfica para o programa.
-2. Tornar a criação online e para qualquer pessoa.
-
+2. Tornar a aplicação online para que pessoas específicas possam gerar automaticamente subsídios de uma ou várias UFs.
 
 ##
 
