@@ -15,7 +15,12 @@ Então tinhamos que filtrar uma planilha por estado e pegar cada informação, c
 ## 3. O que o meu programa faz?
 1. Carrega cada aba de uma planilha excel e trata esses dados.
 2. Cria um cabeçalho padrão.
-3. 
+3. Cria um título com o nome da UF.
+4. Lista todos os convênios da UF.
+5. Lista todos os ACTs da UF.
+6. Lista todos os TEDs da UF.
+7. Lista todos os contratos de repasse da UF.
+8. Gera um arquivo .docx.
 
 
 ## Próximos Passos
